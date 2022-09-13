@@ -2,7 +2,7 @@
 % Please edit documentation in R/function_add.R
 \name{add_two_numbers}
 \alias{add_two_numbers}
-\title{Calculate the area of a circle given its radius}
+\title{Calculate the sum from 2 numbers given}
 \usage{
 add_two_numbers(a, b)
 }
@@ -12,5 +12,5 @@ add_two_numbers(a, b)
 \item{b}{Second param}
 }
 \description{
-Calculate the area of a circle given its radius
+Calculate the sum from 2 numbers given
 }

@@ -1,4 +1,4 @@
-#' Calculate the area of a circle given its radius
+#' Calculate the sum from 2 numbers given
 #' @param a First integer
 #' @param b Second param
 #' @export
